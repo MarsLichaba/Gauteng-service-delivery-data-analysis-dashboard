@@ -1,4 +1,4 @@
-# Data Lens: Gauteng Municipal Service Delivery Data Analysis Dashboard
+#  Gauteng Municipal Service Delivery Data Analysis Dashboard
 
 > Optimizing municipal service delivery in Gauteng using the GCRO Quality of Life Survey, a Microsoft Access database and a Power BI KPI dashboard.
 
