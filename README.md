@@ -2,7 +2,7 @@
 
 > Optimizing municipal service delivery in Gauteng using the GCRO Quality of Life Survey, a Microsoft Access database and a Power BI KPI dashboard.
 
-![Dashboard screenshot](images/dashboard.png)
+![Power BI Dashboard](https://github.com/MarsLichaba/Gauteng-service-delivery-data-analysis-dashboard/blob/master/DashBoard.png?raw=true)
 <!-- Replace with your own screenshot: save it as images/dashboard.png -->
 
 ---
