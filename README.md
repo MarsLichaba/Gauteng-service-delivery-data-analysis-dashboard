@@ -91,7 +91,7 @@ Satisfaction means "Satisfied" or "Very satisfied", and dissatisfaction means "D
 
 The relevant survey fields are stored in a central table, with lookup tables that translate the numeric codes into readable values (municipality, dwelling type, satisfaction scale and so on).
 
-![ERD](images/erd.png)
+![Entity Relationship Diagram](https://github.com/MarsLichaba/Gauteng-service-delivery-data-analysis-dashboard/blob/master/ERD.png?raw=true)
 <!-- Add your ERD image here: images/erd.png -->
 
 ## Power BI Dashboard
